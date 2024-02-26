@@ -1,0 +1,19 @@
+.cat1 {
+  width: 500px;
+}
+.cat2 {
+  width: 500px;
+}
+.cat3 {
+  width: 500px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+div p {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 100px;
+  color: palevioletred;
+}
