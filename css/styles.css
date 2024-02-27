@@ -1,19 +1,26 @@
-.cat1 {
+.cat1 img {
   width: 500px;
+  max-height: 391.58px;
 }
-.cat2 {
+.cat2 img {
   width: 500px;
+  max-height: 391.58px;
 }
-.cat3 {
+.cat3 img {
   width: 500px;
+  max-height: 391.58px;
 }
 .container {
   display: flex;
   justify-content: space-between;
 }
-div p {
+div h1 {
   text-align: center;
-  margin-top: 200px;
+  margin-top: 100px;
+  margin-bottom: 100px;
   font-size: 100px;
   color: palevioletred;
+}
+body {
+  background-color: pink;
 }
